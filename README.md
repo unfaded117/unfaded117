@@ -4,17 +4,8 @@
 <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="300" />
 </div>
 
-<div id="badges" align="center">
-  <a href="linkedin.com/in/adeiza-sulayman-096515256">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="twitter.com/Adeiza13105443">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=adeiza73&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=unfaded117&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align= "center">
   hey there
@@ -37,7 +28,7 @@ I am a Fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/adeiza-sulayman-096515256)
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :- 
@@ -60,7 +51,7 @@ I am a Fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adeiza73&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unfade117&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
@@ -77,7 +68,7 @@ I am a Fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 <!--
-**Adeiza73/Adeiza73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**unfaded117/unfaded117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
